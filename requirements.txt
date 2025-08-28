@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+feedparser
+crewai
+schedule
+smtplib
